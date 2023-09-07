@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_shared_routing_dashboard=self.webpackChunk_shared_routing_dashboard||[]).push([[16008],{16008:(o,a,e)=>{async function r(){localStorage.clear(),sessionStorage.clear(),window.location.href="/"}e.r(a),e.d(a,{CommonLogout:()=>r})}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_shared_routing_viewsl0l2=self.webpackChunk_shared_routing_viewsl0l2||[]).push([[454],{80454:e=>{const s=(e,s,t)=>{const l=s<0?e.length+s:s;if(l>=0&&l<e.length){const l=t<0?e.length+t:t,[n]=e.splice(s,1);e.splice(l,0,n)}};e.exports=(e,t,l)=>(e=[...e],s(e,t,l),e),e.exports.mutate=s}}]);
